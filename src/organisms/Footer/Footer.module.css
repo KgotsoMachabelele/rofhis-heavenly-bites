@@ -1,0 +1,12 @@
+.footer {
+  background: var(--color-brown);
+  color: var(--color-blush);
+  text-align: center;
+  padding: 36px 24px;
+  display: flex; flex-direction: column; gap: 6px;
+}
+
+.script   { font-family: var(--font-script); font-size: var(--text-xl); color: var(--color-sand); }
+.contact  { font-size: var(--text-sm); opacity: 0.9; }
+.location { font-size: var(--text-sm); opacity: 0.8; }
+.copy     { font-size: var(--text-xs); opacity: 0.5; margin-top: 6px; }
